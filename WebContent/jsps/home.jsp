@@ -17,10 +17,10 @@
 		<img src="../images/mithunlogo.jpg" alt="" width="100"/>
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		Saran Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House,
 		Bangalore, Karnataka, India.
-		+91-9980923226
+		+91-9030750738
 	</span>
 </div>
 <hr>
