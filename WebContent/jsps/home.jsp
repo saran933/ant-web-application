@@ -19,7 +19,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai
+		Martha Halli,Opp To 
 		Bangalore.
 		+91-9030750738
 	</span>
